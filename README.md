@@ -16,7 +16,7 @@ and the impact of discounting across a US retail superstore (2014–2017).
 
 ## Dashboard Overview
 
-![Full Dashboard](Image/Superstore_Profit&Discount_Analysis.png)
+![Full Dashboard](image/Superstore_Profit&Discount_Analysis.png)
 
 The dashboard presents four visuals and four KPI cards  Total revenue stands at $2.30M with $286K total 
 profit across 10K orders, reflecting an overall profit margin of 12.47%.
@@ -27,7 +27,7 @@ profit across 10K orders, reflecting an overall profit margin of 12.47%.
 
 ### 1. Profit by Sub-Category
 
-![Profit by Sub-Category](Image/Profit_by_Sub-Category.png)
+![Profit by Sub-Category](image/Profit_by_Sub-Category.png)
 
 **What I did:** Aggregated total sales and total profit for all 17 
 sub-categories, sorted by profit to identify the best and worst performers.
@@ -44,7 +44,7 @@ sub-categories, sorted by profit to identify the best and worst performers.
 
 ### 2. Sales & Profit Margin by Segment
 
-![Sales & Profit Margin by Segment](Image/Sales&Profit_Margin_by_Segment.png)
+![Sales & Profit Margin by Segment](image/Sales&Profit_Margin_by_Segment.png)
 
 **What I did:** Calculated total sales, total profit, and profit margin 
 percentage for each of the three customer segments to identify which 
@@ -63,7 +63,7 @@ segment is the most efficient, not just the largest.
 
 ### 3. Discount Impact on Profit Margin
 
-![Discount Impact on Profit Margin](Image/Discount_Impact_on_Profit_Margin.png)
+![Discount Impact on Profit Margin](image/Discount_Impact_on_Profit_Margin.png)
 
 **What I did:** Grouped all orders into four discount bands -- No 
 Discount, 1–20%, 21–40%, and Above 40% -- and calculated the average 
@@ -109,7 +109,7 @@ unprofitable sub-categories.
 
 ### 5. Monthly Sales Trend (2014–2017)
 
-![Monthly Sales Trend](Image/Monthly_Sales_Trend(2014-2017).png)
+![Monthly Sales Trend](image/Monthly_Sales_Trend(2014-2017).png)
 
 **What I did:** Extracted year and month from the Order Date column 
 and aggregated total sales per month across all four years to identify 
