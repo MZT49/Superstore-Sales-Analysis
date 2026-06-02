@@ -134,21 +134,21 @@ root cause analysis, and action recommendations.
 
 ## Repository Structure
 
-superstore-profit-discount-analysis/
-├── README.md
-├── recommendation.md
-├── queries/
-│   └── sales_analysis.sql
-├── dashboard/
-│   └── superstore_dashboard.pbix
-├── Image/
-│   ├── Superstore Profit & Discount Analysis.png
-│   ├── Profit by Sub-Category.png
-│   ├── Sales & Profit Margin by Segment.png
-│   ├── Discount Impact on Profit Margin.png
-│   └── Monthly Sales Trend (2014–2017).png
-└── data/
-├── SampleSuperstore.csv
+superstore-profit-discount-analysis/   
+├── README.md   
+├── recommendation.md  
+├── queries/  
+│   └── sales_analysis.sql  
+├── dashboard/  
+│   └── superstore_dashboard.pbix  
+├── Image/  
+│   ├── Superstore Profit & Discount Analysis.png  
+│   ├── Profit by Sub-Category.png  
+│   ├── Sales & Profit Margin by Segment.png  
+│   ├── Discount Impact on Profit Margin.png  
+│   └── Monthly Sales Trend (2014–2017).png  
+└── data/  
+├── SampleSuperstore.csv  
 └── superstore_notes.md
 
 --- 
